@@ -1,0 +1,5 @@
+streamlit
+langchain
+speech_recognition
+pyttsx3
+langid
